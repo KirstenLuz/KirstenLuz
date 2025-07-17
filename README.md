@@ -13,7 +13,7 @@
 - R
 - Git and GitHub
 - Excel 📊
-- Databases 🗄️: MySQL, MongoDB
+- Databases 🗄️: SQL, MySQL, DB2 e MongoDB
 
 ---
 
