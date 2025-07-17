@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Oi, eu sou a Kirsten! 🧑‍🎓🌟 </h1>
 
-<!--
-**KirstenLuz/KirstenLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação  
+📊 Com foco de carreira em Análise e Engenharia de Dados  
+🚀 Motivada a construir soluções práticas e aprender constantemente
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Tecnologias
+
+- C++/C
+- JavaScript
+- Python 🐍
+- R
+- Git e GitHub
+- Excel 📊
+- Banco de dados 🗄️: MySQL, MongoDB
+
+---
+
+### 📫 Vamos nos conectar?
+
+[LinkedIn](https://www.linkedin.com/in/kirstenconcepcion/)  
+[GitHub](https://github.com/KirstenLuz)
