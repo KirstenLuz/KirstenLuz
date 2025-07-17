@@ -22,8 +22,3 @@
 [LinkedIn](https://www.linkedin.com/in/kirstenconcepcion/)  
 [GitHub](https://github.com/KirstenLuz)
 
----
-
-### Estatísticas e atividade
-
-![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=KirstenLuz&theme=react)
