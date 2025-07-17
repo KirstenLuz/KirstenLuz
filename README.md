@@ -1,8 +1,7 @@
-<h1 align="center">Oi, eu sou a Kirsten! 🧑‍🎓🌟 </h1>
+<h1 align="center"> 🌷 Olá, eu sou a Kirsten!</h1>
 
-🎓 Estudante de Engenharia da Computação  
-📊 Com foco de carreira em Análise e Engenharia de Dados  
-🚀 Motivada a construir soluções práticas e aprender constantemente
+🎓 Sou estudante de Engenharia da Computação com foco em Análise e Engenharia de Dados.  
+📈 Estou sempre buscando aprender e aplicar tecnologias para transformar dados em soluções práticas.
 
 ---
 
@@ -22,3 +21,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/kirstenconcepcion/)  
 [GitHub](https://github.com/KirstenLuz)
+
+---
+
+### Estatísticas e atividade
+
+![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=KirstenLuz&theme=react)
