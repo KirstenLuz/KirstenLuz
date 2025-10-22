@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Kirsten! 🌷</h1>
 
 <p align="center">
-  <em>Data Analyst Junior • Computer Engineer Student • Exploring Data Engineering & Cloud</em>
+  <em>Data Engineer Junior • Computer Engineering Student • Exploring Cloud & Automation</em>
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
 ---
 
 <p align="center">
-  I’m passionate about data, engineering, and technology that solve real problems.  
-  Here you’ll find projects focused on analytics, automation, and cloud solutions.
+  I’m passionate about **data, automation, and cloud technologies**.  
+  Here you’ll find projects focused on **ETL pipelines, data modeling, cloud solutions, and Python automation**.
 </p>
 
 <p align="center">
@@ -28,12 +28,12 @@
 
 ### 🧠 About Me
 
-- 💻 IT Intern at **SEMASA**, supporting systems and data processes  
+- 💻 IT Intern at **SEMASA**, supporting systems, automation, and data workflows  
 - 🎓 Studying **Computer Engineering** at **Univali**  
-- 📊 Currently pursuing professional certificates from **Google** and **IBM** in **Data Analytics** and **Data Engineering**  
-- ⚙️ Working as a **freelancer** in automation projects, focusing on **Python**, **Excel**, and **Power BI**  
-- ☁️ Expanding my skills in **SQL**, **ETL**, and **Cloud (AWS)**  
-- 🚀 Passionate about technology, data-driven solutions, and continuous learning
+- 📊 Currently advancing skills in **Data Engineering, SQL, ETL, and Cloud Computing (AWS & GCP)**  
+- ⚙️ Working on **freelance projects** in Python automation, Excel dashboards, and Power BI  
+- ☁️ Focused on **building end-to-end data pipelines** and learning modern cloud technologies  
+- 🚀 Passionate about **scalable data solutions**, automation, and continuous growth
 
 ---
 
@@ -52,5 +52,5 @@
 </p>
 
 <p align="center">
-  <em>Keep building. One commit at a time.</em> 🟩
+  <em>Building scalable data solutions, one commit at a time.</em> 🟩
 </p>
