@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Kirsten! 🌷</h1>
 
 <p align="center">
-  <em>Data Engineer Junior • Computer Engineering Student • Exploring Cloud & Automation</em>
+  <em>Junior Data Engineer • Computer Engineering Student • Exploring Cloud & Automation</em>
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
 ---
 
 <p align="center">
-  I’m passionate about **data, automation, and cloud technologies**.  
-  Here you’ll find projects focused on **ETL pipelines, data modeling, cloud solutions, and Python automation**.
+  I’m passionate about data, automation, and cloud technologies.  
+  Here you’ll find projects focused on ETL pipelines, data modeling, cloud solutions, and Python automation.
 </p>
 
 <p align="center">
@@ -26,18 +26,18 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 💻 IT Intern at **SEMASA**, supporting systems, automation, and data workflows  
-- 🎓 Studying **Computer Engineering** at **Univali**  
-- 📊 Currently advancing skills in **Data Engineering, SQL, ETL, and Cloud Computing (AWS & GCP)**  
-- ⚙️ Working on **freelance projects** in Python automation, Excel dashboards, and Power BI  
-- ☁️ Focused on **building end-to-end data pipelines** and learning modern cloud technologies  
-- 🚀 Passionate about **scalable data solutions**, automation, and continuous growth
+-  IT Intern at **SEMASA**, supporting systems, automation, and data workflows  
+-  Studying **Computer Engineering** at **Univali**  
+-  Currently advancing skills in **Data Engineering, SQL, ETL, and Cloud Computing (AWS & GCP)**  
+-  Working on **freelance projects** in Python automation, Excel dashboards, and Power BI  
+-  Focused on **building end-to-end data pipelines** and learning modern cloud technologies  
+-  Passionate about **scalable data solutions**, automation, and continuous growth
 
 ---
 
-### 💻 Tech Stack Highlights
+###  Tech Stack Highlights
 
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirstenLuz&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 🟩 Latest Commit Energy
+###  Latest Commit Energy
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KirstenLuz&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
